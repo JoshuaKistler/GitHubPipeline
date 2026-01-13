@@ -24,7 +24,7 @@ https://learn2torials.com/a/how-to-install-nvm
 Projekt herunterladen<br/>
 ```git clone git@gitlab.com:bbwrl/m346-ref-card-02.git```
 <br/>
-```cd architecture-refcard-02```
+```cd m346-ref-card-02```
 
 ### Projekt bauen und starten
 Die Ausführung der Befehle erfolgt im Projektordner
